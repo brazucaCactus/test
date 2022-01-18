@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf04686479d0bCB84109935049D3742f3a1eEC63B",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xf04686479d0bCB84109935049D3742f3a1eEC63B",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MiiBits NFT",
+  "SYMBOL": "Mii",
+  "MAX_SUPPLY": 90,
+  "WEI_COST": 40000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/miibits",
+  "SHOW_BACKGROUND": true
+}
